@@ -1,4 +1,5 @@
 # c-language-problem
 c language
 it is an use full language as drivers are writen in it
-hi print
+
+c is a language use to write drive code.
